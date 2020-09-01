@@ -63,7 +63,7 @@ export default {
   width: 24px;
   height: 24px;
   /* 去掉图片间隙 */
-  vertical-align: middle;
+  /* vertical-align: middle; */
 }
 /* 活跃的样式 为了方便 封装 */
 /* .active {
